@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/atultiw28513543" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atultiw28513543" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/atul-tiwari-b9871b219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atul-tiwari-b9871b219" height="30" width="40" /></a>
-<a href="https://fb.com/atultiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atultiwari" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100060762835342" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atultiwari" height="30" width="40" /></a>
 <a href="https://instagram.com/atul_tiwari45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atul_tiwari45" height="30" width="40" /></a>
 </p>
 
