@@ -1,6 +1,6 @@
 Hey There, I'm Atul
 
-I am Application Developer in Aviskar Tech Chennai
+I am Flutter Developer
 
  I’m currently working in Aviskar Tech as Application developer
  I’m currently learning Flutter and React Native
