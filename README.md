@@ -27,7 +27,7 @@
 <a href="https://instagram.com/atul_tiwari45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atul_tiwari45" height="30" width="40" /></a>
 </p>
 
-<a href="https://app.daily.dev/atul_tiwari45"><img src="https://api.daily.dev/devcards/56c5c29f8d9a41e8a9fa76d724cf42d3.png?r=kf8" width="400" alt="Atul Tiwari's Dev Card"/></a>
+<a href="https://app.daily.dev/atul_tiwari45" align="right"><img src="https://api.daily.dev/devcards/56c5c29f8d9a41e8a9fa76d724cf42d3.png?r=kf8" width="400" alt="Atul Tiwari's Dev Card"/></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
