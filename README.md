@@ -1,6 +1,6 @@
 <h1 align="center">Hey Darling's👋</h1>
-<h3 align="center">Flutter Developer</h3>
 <h3 align="center">I am Atul Tiwari</h3>
+<h3 align="center">Flutter Developer</h3>
 <h3 align="center">Application Developer at <a href="https://awiskartech.com/"/>Awiskar Technology Pvt. Ltd.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atultiwari7388&label=Profile%20views&color=0e75b6&style=flat" alt="atultiwari7388" /> </p>
