@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **tiwariatul9526@gmail.com**
 
-- ⚡ Fun fact **I think I am very Lazy😄**
+- ⚡ Fun fact **I am very Lazy😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
