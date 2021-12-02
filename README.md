@@ -6,8 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atultiwari7388" alt="atultiwari7388" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/atul_tiwari" target="blank"><img src="https://img.shields.io/twitter/follow/atul_tiwari?logo=twitter&style=for-the-badge" alt="atul_tiwari" /></a> </p>
-
-<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 - 🔭 I’m currently working on **Flutter**
 
