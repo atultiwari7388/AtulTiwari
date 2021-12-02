@@ -5,9 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atultiwari7388" alt="atultiwari7388" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/atul_tiwari" target="blank"><img src="https://img.shields.io/twitter/follow/atul_tiwari?logo=twitter&style=for-the-badge" alt="atul_tiwari" /></a> </p>
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-
+<h2 align="center"> 🔭 Tools of Trade</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/tailwind-css%20-%231572B6.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
+</p>
 - 🔭 I’m currently working on **Flutter**
 
 - 🌱 I’m currently learning **Flutter, Dart**
