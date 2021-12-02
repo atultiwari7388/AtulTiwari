@@ -39,6 +39,6 @@
 
 - ⚡ Fun fact **I am very Lazy😄**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atultiwari7388&show_icons=true&locale=en&layout=compact" alt="atultiwari7388" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atultiwari7388&show_icons=true&locale=en" alt="atultiwari7388" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atultiwari7388&show_icons=true&locale=en" alt="atultiwari7388" /></p>
