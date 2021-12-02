@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/atul_tiwari" target="blank"><img src="https://img.shields.io/twitter/follow/atul_tiwari?logo=twitter&style=for-the-badge" alt="atul_tiwari" /></a> </p>
 
+<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
+
 - 🔭 I’m currently working on **Flutter**
 
 - 🌱 I’m currently learning **Flutter, Dart**
