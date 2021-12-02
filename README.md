@@ -1,4 +1,4 @@
-<h1 align="center">Hey Dev Gang👋</h1>
+<h1 align="center">Hey AppDev Gang👋</h1>
 <!-- <h3 align="center">I am Atul Tiwari</h3> -->
 <h3 align="center">Flutter Developer</h3>
 <h3 align="center">Application Developer at <a href="https://awiskartech.com/"/>Awiskar Technology Pvt. Ltd.</h3>
@@ -6,8 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atultiwari7388&label=Profile%20views&color=0e75b6&style=flat" alt="atultiwari7388" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atultiwari7388" alt="atultiwari7388" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/atultiw28513543" target="blank"><img src="https://img.shields.io/twitter/follow/atultiw28513543?logo=twitter&style=for-the-badge" alt="atultiw28513543" /></a> </p>
+<!-- 
+<p align="left"> <a href="https://twitter.com/atultiw28513543" target="blank"><img src="https://img.shields.io/twitter/follow/atultiw28513543?logo=twitter&style=for-the-badge" alt="atultiw28513543" /></a> </p> -->
 
 - 🔭 I’m currently working on **Flutter**
 
