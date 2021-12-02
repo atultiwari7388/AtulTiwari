@@ -41,4 +41,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atultiwari7388&show_icons=true&locale=en" alt="atultiwari7388" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=atultiwari7388" alt="atultiwari7388" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atultiwari7388&show_icons=true&locale=en" alt="atultiwari7388" /></p>
