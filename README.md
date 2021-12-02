@@ -23,13 +23,7 @@
 <h2 align="center"> Connect with me</h2>
 <p align="center">
 
-<a href="https://www.facebook.com/profile.php?id=100060762835342"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/atul-tiwari-b9871b219/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.instagram.com/atul_tiwari45/"><img src="https://img.shields.io/badge/<@atul_tiwari45>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
-
-
+<a href="https://www.facebook.com/profile.php?id=100060762835342"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/atul-tiwari-b9871b219/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/atul_tiwari45/"><img src="https://img.shields.io/badge/<@atul_tiwari45>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 
