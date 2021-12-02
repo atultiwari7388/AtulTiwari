@@ -24,6 +24,12 @@
 <p align="center">
 
 <a href="https://www.facebook.com/profile.php?id=100060762835342"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/atul-tiwari-b9871b219/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/atul_tiwari45/"><img src="https://img.shields.io/badge/<@atul_tiwari45>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
+
+
 </p>
 
 
@@ -38,14 +44,6 @@
 - 📫 How to reach me **tiwariatul9526@gmail.com**
 
 - ⚡ Fun fact **I am very Lazy😄**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/atul_tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atul_tiwari" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/atul_tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atul_tiwari" height="30" width="40" /></a>
-<a href="https://fb.com/atul_tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atul_tiwari" height="30" width="40" /></a>
-<a href="https://instagram.com/atul_tiwari45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atul_tiwari45" height="30" width="40" /></a>
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atultiwari7388&show_icons=true&locale=en&layout=compact" alt="atultiwari7388" /></p>
 
