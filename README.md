@@ -19,8 +19,7 @@
   <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 </p>
 
-
-<a href="https://wakatime.com/badge/user/71d6414b-f708-49ae-b511-ff9406e17599/project/6175ab57-0e04-41ed-be5e-d58378632d01"><img src="https://wakatime.com/badge/user/71d6414b-f708-49ae-b511-ff9406e17599/project/6175ab57-0e04-41ed-be5e-d58378632d01.svg" alt="wakatime"></a>
+[![wakatime](https://wakatime.com/badge/user/71d6414b-f708-49ae-b511-ff9406e17599/project/6175ab57-0e04-41ed-be5e-d58378632d01.svg)](https://wakatime.com/badge/user/71d6414b-f708-49ae-b511-ff9406e17599/project/6175ab57-0e04-41ed-be5e-d58378632d01)
 
 <h2 align="center"> Connect with me</h2>
 <p align="center">
