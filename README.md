@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://github.com/atultiwari7388/social-media-app-firebase/blob/bottom-bar/assets/gif-unscreen.gif" alt="atultiwari7388" height="300" /></p>
 
 <h1 align="center">Hi 👋, Naa Peru Atul 😉</h1>
-<h3 align="center">Working as a Flutter Developer 🤫</h3>
+<h3 align="center">Phlaṭṭar ḍevalapar‌gā panicēstunnāru 🤫</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atultiwari7388&label=Profile%20views&color=0e75b6&style=flat" alt="atultiwari7388" /> </p>
 
