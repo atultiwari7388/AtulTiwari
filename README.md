@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Atul Tiwari</h1>
 <h3 align="center">Flutter Developer</h3>
 
+
+<p align="center"> <img src="https://assets10.lottiefiles.com/private_files/lf30_bkqawjob.json" alt="atultiwari7388"/></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atultiwari7388&label=Profile%20views&color=0e75b6&style=flat" alt="atultiwari7388" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atultiwari7388" alt="atultiwari7388" /></a> </p>
