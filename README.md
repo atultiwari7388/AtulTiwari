@@ -8,6 +8,7 @@
 <h2 align="center"> 🔭 Tools of Trade</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/React-%2302569B.svg?style=for-the-badge&logo=React&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
@@ -18,8 +19,6 @@
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 </p>
-
-[![wakatime](https://wakatime.com/badge/user/71d6414b-f708-49ae-b511-ff9406e17599/project/6175ab57-0e04-41ed-be5e-d58378632d01.svg)](https://wakatime.com/badge/user/71d6414b-f708-49ae-b511-ff9406e17599/project/6175ab57-0e04-41ed-be5e-d58378632d01)
 
 <h2 align="center"> Connect with me</h2>
 <p align="center">
