@@ -2,7 +2,7 @@
 <h3 align="center">Flutter Developer</h3>
 
 
-<p align="center"> <img src="https://assets10.lottiefiles.com/private_files/lf30_bkqawjob.json" alt="atultiwari7388"/></p>
+<p align="center"> <img src="https://lottiefiles.com/59538-boy-working-on-laptop-lottie-animation" alt="atultiwari7388"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atultiwari7388&label=Profile%20views&color=0e75b6&style=flat" alt="atultiwari7388" /> </p>
 
