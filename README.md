@@ -2,8 +2,8 @@
 
 <p align="center"> <img src="https://github.com/atultiwari7388/social-media-app-firebase/blob/bottom-bar/assets/gif-unscreen.gif" alt="atultiwari7388" height="300" /></p>
 
-<h1 align="center">Hi 👋, I'm Atul Tiwari</h1>
-<h3 align="center">Flutter Developer</h3>
+<h1 align="center">Hi 👋, I'm $name</h1>
+<h3 align="center">Working as a Flutter Developer 🤫</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atultiwari7388&label=Profile%20views&color=0e75b6&style=flat" alt="atultiwari7388" /> </p>
 
