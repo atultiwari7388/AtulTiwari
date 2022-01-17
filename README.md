@@ -1,5 +1,3 @@
-
-
 <p align="center"> <img src="https://github.com/atultiwari7388/social-media-app-firebase/blob/bottom-bar/assets/gif-unscreen.gif" alt="atultiwari7388" height="300" /></p>
 
 <h1 align="center">Hi 👋, Naa Peru Atul 😉</h1>
