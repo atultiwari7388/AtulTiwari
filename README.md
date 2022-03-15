@@ -1,23 +1,23 @@
 <p align="center"> <img src="https://github.com/atultiwari7388/social-media-app-firebase/blob/bottom-bar/assets/gif-unscreen.gif" alt="atultiwari7388" height="300" /></p>
 
 <h1 align="center">Hi 👋, Naa Peru Atul 😉</h1>
-<h3 align="center">Phlaṭṭar ḍevalapar‌gā panicēstunnāru 🤫</h3>
+<!-- <h3 align="center">Phlaṭṭar ḍevalapar‌gā panicēstunnāru 🤫</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atultiwari7388&label=Profile%20views&color=0e75b6&style=flat" alt="atultiwari7388" /> </p>
 
 <h2 align="center"> 🔭 Tools of Trade</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/React-%2302569B.svg?style=for-the-badge&logo=React&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+<!--   <img src="https://img.shields.io/badge/React-%2302569B.svg?style=for-the-badge&logo=React&logoColor=white"/>&nbsp;&nbsp;&nbsp; -->
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>&nbsp;&nbsp;&nbsp;
 <!--   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp; -->
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>&nbsp;&nbsp;&nbsp;
+<!--   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>&nbsp;&nbsp;&nbsp; -->
 <!--   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp;&nbsp;&nbsp; -->
   <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+<!--   <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"/>&nbsp;&nbsp;&nbsp; -->
 </p>
 
 <h2 align="center"> Connect with me</h2>
