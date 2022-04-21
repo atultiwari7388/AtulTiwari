@@ -22,6 +22,7 @@ i have been learning to code after 1 years..
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
+<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
 
 
 ### Socials
@@ -51,6 +52,7 @@ i have been learning to code after 1 years..
 
 
 
+
 <!-- <p align="center"> <img src="https://github.com/atultiwari7388/social-media-app-firebase/blob/bottom-bar/assets/gif-unscreen.gif" alt="atultiwari7388" height="300" /></p>
 
 <h1 align="center">Hi 👋, Naa Peru Atul 😉</h1>
@@ -58,8 +60,8 @@ i have been learning to code after 1 years..
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=atultiwari7388&label=Profile%20views&color=0e75b6&style=flat" alt="atultiwari7388" /> </p> -->
 
-<h2 align="center"> 🔭 Tools of Trade</h2>
-<p align="center">
+<!-- <h2 align="center"> 🔭 Tools of Trade</h2> -->
+<!-- <p align="center"> -->
 <!--   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>&nbsp;&nbsp;&nbsp; -->
 <!--   <img src="https://img.shields.io/badge/React-%2302569B.svg?style=for-the-badge&logo=React&logoColor=white"/>&nbsp;&nbsp;&nbsp; -->
 <!--   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>&nbsp;&nbsp;&nbsp; -->
@@ -99,4 +101,4 @@ i have been learning to code after 1 years..
 
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atultiwari7388" alt="atultiwari7388" /></a> </p> -->
- -->
+
