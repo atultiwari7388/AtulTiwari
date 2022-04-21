@@ -1,4 +1,56 @@
-<p align="center"> <img src="https://github.com/atultiwari7388/social-media-app-firebase/blob/bottom-bar/assets/gif-unscreen.gif" alt="atultiwari7388" height="300" /></p>
+Hi 👋 My name is Atul Tiwari
+============================
+
+Software Developer
+------------------
+
+i have been learning to code after 1 years..
+
+* 🌍  I'm based in India
+* ✉️  You can contact me at [tiwariatul9526@gmail.com](mailto:tiwariatul9526@gmail.com)
+* 🧠  I'm learning Flutter && Dart
+
+### Skills
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
+<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/atultiwari7388" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/atul_tiwari45" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/atultiwari7388"><img src="https://github-readme-stats.vercel.app/api?username=atultiwari7388&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="atultiwari7388's GitHub stats" /></a>
+
+<a href="http://www.github.com/atultiwari7388"><img src="https://github-readme-streak-stats.herokuapp.com/?user=atultiwari7388&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/atultiwari7388"><img src="https://activity-graph.herokuapp.com/graph?username=atultiwari7388&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/atultiwari7388" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atultiwari7388&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- <p align="center"> <img src="https://github.com/atultiwari7388/social-media-app-firebase/blob/bottom-bar/assets/gif-unscreen.gif" alt="atultiwari7388" height="300" /></p>
 
 <h1 align="center">Hi 👋, Naa Peru Atul 😉</h1>
 <!-- <h3 align="center">Phlaṭṭar ḍevalapar‌gā panicēstunnāru 🤫</h3> -->
@@ -46,3 +98,4 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atultiwari7388" alt="atultiwari7388" /></a> </p>
+ -->
