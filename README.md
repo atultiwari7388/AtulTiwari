@@ -4,7 +4,7 @@ Hi 👋
 Software Developer
 ------------------
 
-i have been learning to code after 1 years..
+
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [tiwariatul9526@gmail.com](mailto:tiwariatul9526@gmail.com)
