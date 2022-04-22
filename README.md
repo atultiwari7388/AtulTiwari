@@ -1,4 +1,4 @@
-Hi 👋 My name is Atul Tiwari
+Hi 👋 My name is అతుల్ తివారి 
 ============================
 
 Software Developer
