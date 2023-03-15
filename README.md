@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atultiwari7388" alt="atultiwari7388" /></a> </p>
 
-- 🌱 I’m currently learning **C++ && Java**
+- 🌱 I’m currently learning **Flutter && Dart**
 
-- 💬 Ask me about **Flutter && Dart**
+- 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **tiwariatul9526@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/16CPM0d5hX8V3sRST7iEmgy0d4rPB2g8B/view?usp=sharing
+<!-- - 📄 Know about my experiences https://drive.google.com/file/d/16CPM0d5hX8V3sRST7iEmgy0d4rPB2g8B/view?usp=sharing -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
