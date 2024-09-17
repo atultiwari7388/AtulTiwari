@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **tiwariatul9526@gmail.com**
+- 📫 How to reach me **atult8556@gmail.com**
 
 <!-- - 📄 Know about my experiences https://drive.google.com/file/d/16CPM0d5hX8V3sRST7iEmgy0d4rPB2g8B/view?usp=sharing -->
 
